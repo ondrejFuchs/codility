@@ -1,9 +1,10 @@
 import random
 import string
 
+
 def solution(N):
     """ Function to generate string len = N, where letters (a-z) could by only in odd count.
-    
+
     Args:
         N (int): The length of string to generate.
 
